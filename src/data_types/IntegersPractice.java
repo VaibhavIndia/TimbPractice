@@ -24,7 +24,7 @@ public class IntegersPractice {
 		System.out.println("Lowest long value is = "+ myFirstlong);
 		System.out.println("Highest long value is = "+ mySecondlong);
 
-		System.out.println("Done for normal whole numbers");
+		System.out.println("Done for normal whole number");
 	}
 
 }
